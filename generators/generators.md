@@ -12,20 +12,28 @@
   generators, que nos permitem definir comportamentos específcos nas iterações do
   loop de eventos.
 
-### O que são generators?
-  Generators é o recurso que nos permite pausar e continuar a execução de
+### O que são generators e quando utilizar?
+    Generators é o recurso que nos permite pausar e continuar a execução de
   funções assíncronas, de acordo com nossa necessidade, na prática, é o que
   nos permite executar funções assíncronas "como se fossem" executadas de maneira
   síncrona
+    O uso de generators pode ser aplicado, quando vamos executar uma função que
+  DEPENDE da resposta de outra e só encadear não é o suficiente, ou seja, quando
 
-### Quando utilizar generators?
-  //essa parte precisa melhorar
-  O uso de generators pode ser aplicado, quando vamos executar uma função que
-  DEPENDE da resposta de outra e só encadear não é o suficiente.
 
 
 ### Como utilizar?
-  // yield e yield
+  Para
+  #### function *
+  #### [yield](https://translate.google.com/#en/pt/yield)
+
+  yield to us (i don't know  what it does, so take to you ma friend)
+
+  itermission: (intervalo)???
+
+  #### require node-fetch
+
+
 
 
   // Exemplo do meu code
