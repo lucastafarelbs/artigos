@@ -91,9 +91,9 @@ que esse conhecimento seja útil a alguém além de mim, afinal, **conhecimento 
 
 ## Referências
 [strongloop.com](https://strongloop.com/strongblog/how-to-generators-node-js-yield-use-cases/)
-
-[funfunfunction - canal do youtube _somente em inglês_]
+[funfunfunction - canal do youtube, somente em inglês](https://www.youtube.com/watch?v=ategZqxHkz4&list=PL0zVEGEvSaeFSwPn06GKArptSxiP1Gff8&index=34)
 
 ## Indicações
-### Esse artigo não teria sido produzido se não fosse pela [webschool.io](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg)
-### Para mais conhecimento sobre o mundo JS, anarquia ou novas ideias, aqui vai o blog do tio Suissa [nomadev](http://nomadev.com.br/)
+*Esse artigo não teria sido produzido se não fosse pela [webschool.io](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg) *
+
+*Para mais conhecimento sobre o mundo JS, anarquia ou novas ideias, aqui vai o blog do tio Suissa [nomadev](http://nomadev.com.br/)*
