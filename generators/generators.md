@@ -91,6 +91,7 @@ que esse conhecimento seja útil a alguém além de mim, afinal, **conhecimento 
 
 ## Referências
 [strongloop.com](https://strongloop.com/strongblog/how-to-generators-node-js-yield-use-cases/)
+
 [funfunfunction - canal do youtube, somente em inglês](https://www.youtube.com/watch?v=ategZqxHkz4&list=PL0zVEGEvSaeFSwPn06GKArptSxiP1Gff8&index=34)
 
 ## Indicações
