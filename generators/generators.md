@@ -23,30 +23,77 @@
 ### Como utilizar?
     O uso dos generators pode parecer confuso num primeiro momento, mas com a prática,
   como tudo na vida, fica bem tranquilo.
-    Começamos declarando uma função  
-  #### function *
-  #### [yield](https://translate.google.com/#en/pt/yield)
+    Começamos chamando uma função recebendo o generator sintaxe function \*()
+    *a sintaxe do generator é: function *()*
 
-  yield to us (i don't know  what it does, so take to you ma friend)
+    ```
+    run(function *()){
+        //algum código aqui
+    }
+    ```
 
-  itermission: (intervalo)???
+    agora, declaramos a função run
+    ```    
+    function run (generator){                
+      //algum código aqui
+    }
+    ```
 
-  #### require node-fetch
+      Aqui é que começa a ficar ~~complicado~~ **legal**
+      Dentro de  **_run_** iremos fazer uma requisição com *node-fetch*[mais informações aqui](https://www.npmjs.com/package/node-fetch)
+    porém, iremos interagir com os resultados da requisição. E aqui começa a
+    fazer sentido o uso dos generators.
 
+    **Yield** - esse cara tem a responsabilidade ["fornecer"](https://translate.google.com/#en/pt/yield) para nós,
+    o resultado de uma promise, simplificando, quANFD, quando solicitamos o next(). O interpretador bate no yield e só continuar
+    a execução do programa, quando o próximo next for chamado.
 
-
-
-  No código:
+  Aqui o código com alguns comentários:
   ![alt text](./img/codigo.png "Código Generators")
 
+  Aqui o código caso você queira testar:
+  ```
+    const fetch = require('node-fetch')
+
+    run(function *(){
+      const uri = 'http://jsonplaceholder.typicode.com/posts/1'
+      const response = yield fetch(uri)                          1) response recebe fetch(uri, quando um next() for acionado)
+      const post = yield response.json()                         2) no próximo next() post recebe response.json()
+      const value  = post.title
+      return value
+    })
+    .catch(err=> console.error(err.stack))
+    .then(x => console.log('run resulted in: ', x))
+
+    function run (generator){                                    3) recebe um generator (função declarada com a
+                                                                    sintaxe definida para isso 'function *()')
+      const iterator = generator()                               4) vai interagir com o genereator, solicitando os next()
+
+      function iterate(iteration){                               5) função recursiva que irá dar os passos no generator colocando next nos yields
+        if (iteration.done) return iteration.value
+        const promise = iteration.value
+        return promise.then(x => iterate(iterator.next(x)))
+      }
+      return iterate(iterator.next())
+    }  
+  ```
 
 
 ### Nem tudo são flores :S
-  Utilizar generators prejuda muito a velocidade de execução do nosso código.
-  Por que ?
-  Existe vantagem em utilizar generators?
+    Utilizar generators prejudica muito a velocidade de execução do nosso código,
+  portanto use somente se necessário, caso contrário, deixe que o event loop siga
+  seu curso tranquilo para que o máximo de desempenho da linguagem seja aproveitado.
+
 
 ### Conclusão
+    Bom, esse artigo foi feito somente como forma de fixação de conhecimento, mas espero
+  que esse conhecimento seja útil a alguém além de mim, afinal, **conhecimento não compartilhado, é nulo**.
+
 
 ## Referências
 [strongloop.com](https://strongloop.com/strongblog/how-to-generators-node-js-yield-use-cases/)
+[funfunfunction - canal do youtube _somente em inglês_]
+
+## Indicações
+  ### Esse artigo não teria sido produzido se não fosse pela [webschool.io](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg)
+  ### Para mais conhecimento sobre o mundo JS, anarquia ou novas ideias, aqui vai o blog do tio Suissa [nomadev](http://nomadev.com.br/)
