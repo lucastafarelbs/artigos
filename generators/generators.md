@@ -16,14 +16,14 @@
     Generators é o recurso que nos permite pausar e continuar a execução de
   funções assíncronas, de acordo com nossa necessidade, na prática, é o que
   nos permite executar funções assíncronas "como se fossem" executadas de maneira
-  síncrona
+  síncrona.
     O uso de generators pode ser aplicado, quando vamos executar uma função que
-  DEPENDE da resposta de outra e só encadear não é o suficiente, ou seja, quando
-
-
+  DEPENDE da resposta de outra e só encadear não é o suficiente.
 
 ### Como utilizar?
-  Para
+    O uso dos generators pode parecer confuso num primeiro momento, mas com a prática,
+  como tudo na vida, fica bem tranquilo.
+    Começamos declarando uma função  
   #### function *
   #### [yield](https://translate.google.com/#en/pt/yield)
 
@@ -36,7 +36,10 @@
 
 
 
-  // Exemplo do meu code
+  No código:
+  ![alt text](./img/codigo.png "Código Generators")
+
+
 
 ### Nem tudo são flores :S
   Utilizar generators prejuda muito a velocidade de execução do nosso código.
