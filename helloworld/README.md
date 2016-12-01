@@ -46,24 +46,28 @@ Estava eu em JUNHO de 2016, quando um amigo da antiga empresa indicou-me para um
 
 >[Webschool né fio](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg)!
 
-#### TCC - Desenvolvimento
+#### O TCC - Desenvolvimento
 
-Inicei meus estudos na webschool em Julho/2016, aprendi a MEAN Stack, desenvolvi meu TCC - com muita ajuda é claro, muita ajuda do @Suissa, do @daniloqb (Que é o colaborador mais ativo no projeto SHoFE), do @Rafael e da minha mãe <3.
-Aqui estamos em Dezembro, o TCC foi concluído e muuuuiiiitttooosss outros projetos se iniciaram.
+Inicei meus estudos na Webschool em Julho/2016 onde aprendi a MEAN Stack e desenvolvi meu TCC, com muita ajuda é claro! Muita ajuda do @Suissa, do @daniloqb (Que é o colaborador mais ativo no projeto SHoFE), do @Rafael e da minha mãe <3.
+Finalmente o TCC foi concluído, em Dezembro de 2016, e muuuuiiiitttooosss outros projetos se iniciaram.
 
 
 ## Projetos, WEBSCHOOL e SUISSA
 
-Aqui estamos em Dezembro de 2016, e em 6 meses eu consegui sair do 0 absoluto em desenvolvimento web para um nível Júnior. Devo muito disso à webschool e ao Suissa, não fosse a paciência dele e a competência como professor, isso não seria possível. A visão anarquista, revolucionária, ativista e radical desse [Nomadev](nomadev.com.br), tem sido muito importante pra mim nesse momento.
+Aqui estamos em Dezembro de 2016, em 6 meses eu consegui sair do 0 absoluto em desenvolvimento web para um nível Júnior. Devo muito disso à Webschool e ao Suissa, se não fosse sua paciência e competência como professor isso não seria possível. A visão anarquista, revolucionária, ativista e radical desse [Nomadev](http://nomadev.com.br) tem sido muito importante para mim nesse momento.
 
-Por conhecer o Suissa, acabei por conhecer toda uma comunidade de JavaScript que é muito receptiva e paciente com os novos membros. Comunidade JS, <3.
+Ao conhecer o Suissa acabei tendo contato com toda uma comunidade de JavaScript, que é muito receptiva e paciente com os novos membros. 
 
-Com o Suissa, tenho alguns projetos em andamento, desde ideias para escolas online e gratuitas, até sistemas web. A Webschool tem se tornado uma visão que eu compartilho com o Suissa e caso vocês queiram conhecer o potencial, dessa ferramenta, deem uma olhada nesse repo [Ensino Gratuito](https://github.com/Webschool-io/Ensino-Superior-de-Informatica-GRATUITO).
+**Comunidade JS <3.**
+
+Junto com o Suissa tenho alguns projetos em andamento, desde ideias para escolas online e gratuitas até sistemas web. A Webschool tem se tornado uma visão da qual eu compartilho e caso vocês queiram conhecer o potencial dessa ferramenta deem uma olhada nesse repo [Ensino Gratuito](https://github.com/Webschool-io/Ensino-Superior-de-Informatica-GRATUITO).
 
 ## Conclusão
-Posso concluir que eu estava totalmente certo quando decidi seguir o caminho do opensource, e que caso você concorde com algo que leu aqui, sinta-se encorajado a meter a cara nos estudos de WEB, nas comunidades de conhecimento por aí e no mundo opensource no geral.
-E esse então fica sendo meu primeiro artigo para o blog e espero poder retribuir da melhor maneira possível todo o conhecimento que eu recebi de graça da WEB <3.
 
-Independente de crença, sinto uma gratidão tão grande, que se torna maior que eu, e humano simples que sou, não consigo imaginar algo melhor para definir isso senão Deus.
+Posso concluir que eu estava totalmente certo quando decidi seguir o caminho do opensource. Caso você concorde com algo que leu aqui, sinta-se encorajado a meter a cara nos estudos de WEB nas comunidades de conhecimento por aí e no mundo opensource em geral.
+
+Então, esse fica sendo meu primeiro artigo para o blog e espero poder compartilhar da melhor maneira possível todo o conhecimento que eu recebi de graça da WEB <3.
+
+Independente de crença, sinto uma gratidão tão grande que se torna maior que eu. Humano simples que sou, não consigo imaginar algo melhor para definir isso senão: **Deus**
 
 #BeMEAN #BeOpenSource #BeFree #MakeTheFreedom #TogetherWeAreStrong
