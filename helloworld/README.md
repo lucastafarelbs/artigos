@@ -3,15 +3,20 @@
 ### Tempo estimado para leitura: 15 minutos.
 
 ```
-Olá, seja muito bem vindo ao meu blog e como primeiro post eu gostaria de me apresentar e
-apresentar minha um pouco da minha experiência. Aproveite :D
+Olá, seja muito bem vindo ao meu blog!
+
+Como primeiro post eu gostaria de falar um pouco sobre mim e apresentar um pouco da minha experiência. 
+
+Aproveite :D
 ```
 
-Me chamo Lucas Tafarel Baquião dos Santos, nascido em **_18 de Julho de 1994_**, um dia após o Brasil ser campeão da copa, o que explica o **Tafarel**, tirando o nome, não me interesso nem um pouco por futebol, ahhaaha. Sou apaixonado por carros, música e Quebrada( e tudo que ela pode oferecer, o skate, o Rap, o Graffite e a Humildade). Aprecio coisas que envolvam resistência, revolução e não conformidade com as práticas consumistas/capitalistas de nosso mundo atual. Casado, Vegetariano <3, Cristão, influenciado pelo _reggae de raíz_ e anarquista coletivista. Confuso? tudo depende do ponto de vista. Muito Grato aos bons ensinamentos herdados de ótimos pais Lia e Paulino, que fizeram um homem que consegue ao menos pensar :D.
+Me chamo Lucas Tafarel Baquião dos Santos, nascido em **_18 de Julho de 1994_**, um dia após o Brasil ser campeão da copa, o que explica o **Tafarel**, tirando o nome, não me interesso nem um pouco por futebol, hahahaha. Sou apaixonado por carros, música e Quebrada (e tudo que ela pode oferecer: o skate, o Rap, o Graffite e a Humildade). Aprecio coisas que envolvam resistência, revolução e não conformidade com as práticas consumistas/capitalistas do nosso mundo atual. Casado, Vegetariano <3, Cristão, influenciado pelo _reggae de raíz_ e anarquista coletivista. 
+
+> Confuso? Tudo depende do ponto de vista. Muito Grato aos bons ensinamentos herdados de ótimos pais, Lia e Paulino, que fizeram de mim um homem que consegue ao menos pensar :D.
 
 ## O início
 
-Comecei meus estudos na área por volta de 7 anos atrás, de modo muito natural, gostava de computadores fazia umas formatações e fui estudar hardware em uma microXYZ. Nessa etapa conheci o **@daniloqb**, que me incentivou a iniciar o curso técnico e posteriormente virou meu mentor.
+Comecei meus estudos na área por volta de 7 anos atrás, de modo muito natural, gostava de computadores e fazia algumas formatações. Fui estudar hardware em uma microXYZ e nessa etapa conheci o **@daniloqb** que me incentivou a iniciar o curso técnico e posteriormente virou meu mentor.
 
 ## O Curso técnico
 
