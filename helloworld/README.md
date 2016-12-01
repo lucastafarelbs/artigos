@@ -28,17 +28,23 @@ Ainda cursando o técnico tive que fazer estágio como requisito para concluir o
 
 ## A Faculdade
 
-Assim que concluí o curso técnico, ingressei em um curso de Ciência da Computação na **_Faculdade Anhanguera de Limeira_**, escolhi essa por ser a mais próxima à minha casa, logo, a que mais cabia no meu orçamento, no segundo ano consegui PROUNI, o que muito facilitou a continuação no curso, e na verdade, foi uma das únicas coisas que me forçou a continuar, pois, o curso tinha uma grade completamente falha e uma metodologia de avaliação mais falha ainda, o que me obrigou a buscar **MUITO** conhecimento fora, durante a faculdade eu troquei de empresa, mas ainda continuei como programador desktop, sim ainda usava delphi, sim em pleno 2016, até o meio de 2016 eu ainda sabia só dektop, mas precisava aprender WEB para concluir meu TCC, **_e aqui tudo mudou_**.
+Assim que concluí o curso técnico ingressei em um curso de Ciência da Computação na **_Faculdade Anhanguera de Limeira_**. Escolhi essa por ser a mais próxima à minha casa e também era a que mais cabia no meu orçamento. No segundo ano consegui a bolsa do PROUNI que facilitou muito a continuação no curso, na verdade, foi uma das únicas coisas que me forçou a continuar, pois o curso tinha uma grade completamente falha e uma metodologia de avaliação mais falha ainda, isso me obrigou a buscar **MUITO** conhecimento fora. Durante a faculdade eu troquei de empresa mas ainda continuei como programador desktop, **_sim ainda usava delphi e sim em pleno 2016_**, até o meio de 2016 eu ainda sabia só dektop mas precisava aprender WEB para concluir meu TCC.
+
+> Foi aí que tudo mudou!!
 
 #### O TCC - A Ideia
 
-Já com a ideia de opensouce enaraízada em meu coração <3, decidi que esse seria o tema do meu TCC, queria defender que a **_Tecnologia Livre_** é uma alternativa muito viável para a evolução técnologica como um todo, do ínfimo bit correndo em uma trilha de hardware, até o sistema de frontend mais otimizado para UX e UI...
+Já com a ideia de opensouce enraízada em meu coração <3, decidi que esse seria o tema do meu TCC. Queria defender que a **_Tecnologia Livre_** é uma alternativa muito viável para a evolução técnologica como um todo, do ínfimo bit correndo em uma trilha de hardware até o sistema de frontend mais otimizado para UX e UI...
 
-A ideia inicial era desenvolver um sistema de gerenciamento escolar de maneira colaborativa, mas a ideia mudou e virou um sistema de automação residencial, que se chama [SHoFE.iu](https://github.com/lucastafarelbs/shofe.io) e tem como ideia principal, deixar os projetos de automação residencial mais acessíveis, daí o nome (Smart Homes For Everyone).
+A ideia inicial era desenvolver um sistema de gerenciamento escolar de maneira colaborativa, mas a ideia mudou e virou um sistema de automação residencial chamado [SHoFE.iu](https://github.com/lucastafarelbs/shofe.io) que tem como ideia principal deixar os projetos de automação residencial mais acessíveis, daí o nome (Smart Homes For Everyone).
 
 #### O TCC - Pesquisa
 
-Aqui estamos em JUNHO de 2016, um amigo da antiga empresa me indicou para um trampo com WEB, e foi assim que conheci o AngularJS <3\. Como eu precisava aprender AngularJS por causa do trampo, tive a ideia de usar esse conhecimento para o TCC, então fui pesquisar e pesquisando acabei encontrando o **_@SUISSA_** no facebook, chamei ele porque ele defendia JavaScript com unhas e dentes, perguntei se ele tinha algum conteúdo para me indicar e ele me apresentou o canal que mudou o modo como eu vejo a **_WEB e até a tecnologia em si_**, que canal é esse ? [Webschool né fio](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg).
+Estava eu em JUNHO de 2016, quando um amigo da antiga empresa indicou-me para um trampo com WEB e foi assim que conheci o AngularJS <3\. Como eu precisava aprender AngularJS por causa do trampo, tive a ideia de usar esse conhecimento para o TCC, então fui pesquisar e acabei encontrando o **_[@SUISSA](https://twitter.com/osuissa)_** no facebook e entrei em contato porque ele defendia JavaScript com unhas e dentes. Perguntei se ele tinha algum conteúdo para me indicar e ele me apresentou o canal que mudou o modo como eu vejo a **_WEB e até a tecnologia em si_**.
+
+> Que canal é esse ? 
+
+>[Webschool né fio](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg)!
 
 #### TCC - Desenvolvimento
 
