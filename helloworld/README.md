@@ -20,13 +20,11 @@ Comecei meus estudos na área por volta de 7 anos atrás, de modo muito natural,
 
 ## O Curso técnico
 
-Estudei informática no Colégio Tecnico de Limeira **_-COTIL-_**, que pertence à UNICAMP, e nessa época conheci **_Rafael_**, que além de amigo, me levou ao meu primeiro emprego --antes disso eu ajudava meu pai na fábrica.
+Estudei informática no Colégio Tecnico de Limeira **_-COTIL-_**, que pertence à UNICAMP. Nessa época conheci **_Rafael_**, que além de amigo, levou-me ao meu primeiro emprego (antes disso eu ajudava meu pai na fábrica).
 
-Enquanto estudava em duas escolas -ensino médio em uma e técnigo em outra- usava as tardes para trabalhar em uma empresa de internet via-rádio, onde aprendi um pouco de redes.
+Enquanto estudava em duas escolas (ensino médio em uma e técnico em outra), usava as tardes para trabalhar em uma empresa de internet via-rádio onde aprendi um pouco de redes.
 
-Ainda cursando o técnico, tive que fazer estágio como requisito para concluir o curso, fui então trabalhar em como estagiário de helpdesk no campus da **_FCA - Faculdade de Ciências Aplicadas da Unicamp_**, nesse trampo, minha amizade com **@daniloqb** se fortaleceu e ele me levou ao bom caminho do opensource, foi quando comecei a usar UBUNTU, lá pela versão 9.x. Com a ajuda dele e das ótimas aulas de [Elaine Britto](http://ebrito.com.br/) aprendi muito bem a parte de lógica.
-
-No final do curso comecei a trabalhar como programador DESKTOP (Delphi).
+Ainda cursando o técnico tive que fazer estágio como requisito para concluir o curso, fui então trabalhar como estagiário de helpdesk no campus da **_FCA (Faculdade de Ciências Aplicadas da Unicamp_**). Nesse trampo minha amizade com **@daniloqb** se fortaleceu e ele me levou ao bom caminho do opensource, foi quando comecei a usar UBUNTU, lá pela versão 9.x; com a ajuda dele e das ótimas aulas da [Elaine Britto](http://ebrito.com.br/) aprendi muito bem a parte de lógica. Ao final do curso comecei a trabalhar como programador DESKTOP (Delphi).
 
 ## A Faculdade
 
