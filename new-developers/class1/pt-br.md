@@ -1,6 +1,6 @@
 #### Primeira Aula para novos desenvolvedores
 
- _*Olá pessoa, nessa aula daremos sequência ao conteúdo iniciado [nessa playlist do Rodrigo Branas](link: playlist Rodrigo Branas), se você ainda não assistiu, comece por ela, lá ele vai ensinar os princípios do JavaScript e isso é pré-requisito para a continuação das aulas, também é importante que você tenha o [NODE.JS](https://nodejs.org) instalado em sua máquina*_
+ _*Olá pessoa, nessa aula daremos sequência ao conteúdo iniciado [nessa playlist do Rodrigo Branas](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc), se você ainda não assistiu, comece por ela, lá ele vai ensinar os princípios do JavaScript e isso é pré-requisito para a continuação das aulas, também é importante que você tenha o [NODE.JS](https://nodejs.org) instalado em sua máquina*_
 
  _*Obs: Sempre que possível, desde que não prejudique o bom entendimento do aluno usarei Inglês, em ambiente real, isso é boa prática, dentre outras razões, facilita a nomenclatura/entendimento do código*_
 
@@ -16,7 +16,7 @@
     - Podemos utilizar arquivos para automatizar tarefas, como por exemplo enviar vários emails para uma lista de email (presente em um arquivo).
     - Podemos executar determinadas rotinas no nosso sistema e então gerar um arquivo para que outro sistema (desenvolvido por nós mesmos, ou não) possa utilizar.
 
-#### [Aqui está o código final do projeto](link: projeto final)
+#### [Aqui está o código final do projeto - em breve]() 
 
 #### Vamos começar :)
 
@@ -181,7 +181,7 @@ __10) Conclusão__
     - Módulos externos tem que ser instalados com o comando **npm install --save nome_do_modulo**
     - **var** não é bom, muito menos declara só o nome sem nada antes
     - **let** ok, **const** é o que há!
-    
+
 
   +  Para concluir, deixo uma citação que marcou muito o início da minha jornada como **Desenvolvedor**
 
